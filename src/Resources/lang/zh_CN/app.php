@@ -5,7 +5,7 @@ return [
         'components' => [
             'layouts' => [
                 'sidebar' => [
-                    'dam' => '数字资产管理', ,
+                    'dam' => '数字资产管理',
                 ],
             ],
             'modal' => [
